@@ -41,7 +41,7 @@ You can find different frameworks or use cases in each folder.
 
 - Plain Java: [Readme](./05-JAVA/README.md)
 - Maven: [Dockerfile](./05-JAVA/Maven/README.md), [Readme](./05-JAVA/Maven/README.md)
-
+- Gradle : [Dockerfile](./05-JAVA/Gradle/Dockerfile), [Readme](./05-JAVA/Gradle/README.md)
 ### C# programming language & related frameworks
 
 - Plain C# (hello docker example): [Dockerfile](./06-C%23/HelloDocker/Dockerfile), [Readme](./06-C%23/HelloDocker/README.md)
